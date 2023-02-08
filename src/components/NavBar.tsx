@@ -10,7 +10,6 @@ const NavBar = () => {
                   <NavBarLink endpoint={'/'} title={'Home'} />
                   <NavBarLink endpoint={'/about'} title={'About Me'} />
                   <NavBarLink endpoint={'/projects'} title={'Projects'} />
-                  <NavBarLink endpoint={'/contact'} title={'Contact'} />
               </Stack>
           </Toolbar>
       </AppBar>
